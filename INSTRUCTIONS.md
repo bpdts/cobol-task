@@ -4,9 +4,6 @@ Steps
 -----
 
 * Pull this repository to your local machine.
-* Write a Microfocus COBOL program:
-  - Ingest the data in the [data](/data) directory 
-  - Filter the data and remove any entries outside England.
-  - Sort the data by surname.
-  - Print the results to the screen.
+* There is an index file in the [data](/data) directory.
+* Create a Microfocus COBOL application to perform simple CRUD actions on the data.
 * Push the code to a private repo, and contact us to get hold of a username which you'll need to give access so we can look at what you've done.
