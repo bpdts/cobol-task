@@ -1,2 +1,4 @@
 # cobol-test
-Microfocus COBOL test and base repository
+Microfocus COBOL task and base repository
+
+Please see INSTRUCTIONS.md for task criteria.
