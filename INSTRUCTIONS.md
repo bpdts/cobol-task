@@ -5,5 +5,11 @@ Steps
 
 * Pull this repository to your local machine.
 * There is an index file in the [data](/data) directory.
-* Create a Microfocus COBOL application to perform simple CRUD actions on the data.
+* Create a new COBOL program
+  Define the select statement for this file
+  Define the FD for the file
+  Complete this interactive program which asks the user:
+  - Either to display the contents of a record, based on key
+  - Modify the contents of the record based on key
+  - Define a new record
 * Push the code to a private repo, and contact us to get hold of a username which you'll need to give access so we can look at what you've done.
