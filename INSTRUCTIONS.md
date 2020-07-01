@@ -4,7 +4,9 @@ Steps
 -----
 
 * Pull this repository to your local machine.
-* There is an index file in the [data](/data) directory.
+* There two files in the [data](/data) directory:
+  - An indexed sequential file with the single prime key, 3 bytes long, at the start of the record.
+  - A COBOL copy file which contains the definition of the record in the other file.
 * Create a new COBOL program
   Define the select statement for this file
   Define the FD for the file
