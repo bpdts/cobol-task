@@ -8,9 +8,9 @@ Steps
   - An indexed sequential file with the single prime key, 3 bytes long, at the start of the record.
   - A COBOL copy file which contains the definition of the record in the other file.
 * Create a new COBOL program
-  Define the select statement for this file
-  Define the FD for the file
-  Complete this interactive program which asks the user:
+* Define the select statement for this file
+* Define the FD for the file
+* Complete this interactive program which asks the user:
   - Either to display the contents of a record, based on key
   - Modify the contents of the record based on key
   - Define a new record
