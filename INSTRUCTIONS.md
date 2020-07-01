@@ -1,4 +1,4 @@
-The purpose of this tech task is to look at your use of canonical Microfocus COBOL, in line with other skills that we would expect you to be using regularly. A discussion of your work will form a small part of the interview discussion.
+The purpose of this tech task is to look at your use of canonical Microfocus COBOL, in line with other skills that we would expect you to be using regularly. A discussion of your work will form a small part of the interview discussion. We would expect this task to only take you a couple of hours.
 
 Steps
 -----
