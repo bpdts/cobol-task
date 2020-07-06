@@ -24,4 +24,4 @@ Steps
 If You Do Not Have Access To An Environment
 -------------------------------------------
 
-If you don't have access to a Microfocus COBOL environment, please see NOENV.md 
+If you don't have access to a Microfocus COBOL environment, please see [NOENV.md](/NOENV.md).
