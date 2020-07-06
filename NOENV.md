@@ -14,4 +14,4 @@ Either
 Or
 --
     
-2. Using another variety of COBOL, for example (GnuCOBOL)[https://sourceforge.net/projects/open-cobol/], follow the instructions in (INSTRUCTIONS.md)[/INSTRUCTIONS.md]. Upload this code to a Git repository, or email it to us.
+2. Using another variety of COBOL, for example [GnuCOBOL](https://sourceforge.net/projects/open-cobol/), follow the instructions in [INSTRUCTIONS.md](/INSTRUCTIONS.md). Upload this code to a Git repository, or email it to us.
