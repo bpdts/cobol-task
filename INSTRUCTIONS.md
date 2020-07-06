@@ -20,3 +20,8 @@ Steps
   - Modify the contents of the record based on key
   - Define a new record
 * Push the code to a private repo, and contact us to get hold of a username which you'll need to give access so we can look at what you've done.
+
+If You Do Not Have Access To An Environment
+-------------------------------------------
+
+If you don't have access to a Microfocus COBOL environment, please see NOENV.md 
